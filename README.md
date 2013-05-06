@@ -3,6 +3,7 @@ Peer2PeerFileSync
 
 Files syncing Peer-to-Peer, socket programming using Java
 1. Extract the files into the folder you want to share
+
 2. Using terminal (tested on linux and mac) navigate to the folder
 3. Run: 
         javac sync.java        
